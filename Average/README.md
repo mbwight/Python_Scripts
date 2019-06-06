@@ -1,2 +1,2 @@
-Average.py
-Takes the average of numbers
+# Average.py
+Takes the average of 3 numbers
